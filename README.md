@@ -11,7 +11,4 @@ _Always learning, always building — one byte at a time._
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/aaradhya-bhardwaj-907485319/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://frankhiss.xyz"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="![image](https://github.com/user-attachments/assets/5e9caa13-04f9-4fcb-a80a-fb6e446f57b5)
-"/></a>
 </p>

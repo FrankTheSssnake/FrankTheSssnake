@@ -15,7 +15,7 @@ _Learning, Building — one byte at a time._
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://frankhiss.xyz">
-    <img width=32px height=32px src="https://github.com/user-attachments/assets/b1aeedcd-8ce3-4dca-94ab-55fd799f91a1"/>
+    <img width=32px height=32px src="https://github.com/user-attachments/assets/89cd9923-d550-4400-becf-a7ef49780676"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://linktr.ee/frankhissss">

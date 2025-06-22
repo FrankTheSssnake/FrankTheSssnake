@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=D4C5E2&vCenter=true&width=450&height=50&lines=FrankTheSssnake)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=D4C5E2&center=true&vCenter=true&width=1000&height=50&lines=FrankTheSssnake)](https://git.io/typing-svg)
 
-`CTF Player / Systems Hacker`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=D4C5E2&center=true&vCenter=true&repeat=false&width=1000&lines=CTF+Player+%2F+Systems+Programmer)](https://git.io/typing-svg)
 
 I'm an independent systems developer and reverse engineering student and enthusiast, building tools, games, and CTF challenges. My projects range from custom HTTP servers to Rust-based pixel-art games and WebAssembly apps. When I'm not diving into binary ninja, I design puzzles for hackathons and CTFs.
 
